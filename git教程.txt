@@ -3,3 +3,10 @@ git add .
 git commit -m ""
 git push
 
+git init __初始化仓库
+git status __查看仓库的状态
+git add __向缓存中添加文件
+git commit __保存仓库中的历史纪录，可以将缓存中的文件实际保存到仓库的历史纪录中
+git log __查看提交日志
+
+
